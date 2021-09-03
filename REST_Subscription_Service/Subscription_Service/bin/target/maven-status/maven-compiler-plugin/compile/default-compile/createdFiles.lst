@@ -1,0 +1,7 @@
+com\websystique\springmvc\model\CardioChallenge.class
+com\websystique\springmvc\configuration\HelloWorldInitializer.class
+com\websystique\springmvc\service\CardioChallengeService.class
+com\websystique\springmvc\service\CardioChallengeImpl.class
+com\websystique\springmvc\configuration\HelloWorldConfiguration.class
+com\websystique\springmvc\SpringRestTestClient.class
+com\websystique\springmvc\controller\CardioChallengeRestController.class

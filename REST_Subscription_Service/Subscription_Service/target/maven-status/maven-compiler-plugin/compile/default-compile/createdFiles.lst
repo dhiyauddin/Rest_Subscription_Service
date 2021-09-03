@@ -1,0 +1,8 @@
+com\websystique\springmvc\configuration\HelloWorldInitializer.class
+com\websystique\springmvc\model\Subscription.class
+com\websystique\springmvc\service\SubscriptionService.class
+com\websystique\springmvc\configuration\HelloWorldConfiguration.class
+com\websystique\springmvc\controller\SubscriptionRestController.class
+com\websystique\springmvc\model\SubscriptionOutput.class
+com\websystique\springmvc\service\SubscriptionImpl.class
+com\websystique\springmvc\SpringRestTestClient.class
